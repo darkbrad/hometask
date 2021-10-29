@@ -1,0 +1,49 @@
+{
+    "2021-10-18": [
+        ["Morning Meeting w/ Team", "Work"],
+        ["Retrospective w/ Team", "Work"]
+    ],
+    "2021-10-19": [
+        ["Morning Meeting w/ Team", "Work"],
+        ["Lunch Meeting w/ Mark", "Other"],
+        ["Dinner at home", "Family"]
+    ],
+    "2021-10-20": [
+        ["Team Building w/ Team", "Work"]
+    ],
+     "2021-10-31": [
+        ["Halloween", "Family"]
+    ],
+     "2021-11-09": [
+        ["My birthday", "Family"],
+         ["Mornining meeting w/Team","Work"]
+    ],
+     "2021-11-12": [
+        ["Feature freeze ", "Work"]
+    ],
+     "2021-11-17": [
+        ["Code freeze", "Work"],
+         ["Sisters birthday", "Family"]
+    ],
+     "2021-11-21": [
+        ["Realise date", "Work"]
+    ],
+     "2021-11-27": [
+        ["JavaScript training", "Work"]
+    ],
+    "2021-11-28": [
+        ["Python Courses", "Work"]
+
+    ],
+     "2021-11-22": [
+        ["Programming quiz", "Work"]
+    ],
+
+     "2021-11-22": [
+        ["Football match", "Other"]
+    ],
+     "2021-12-07": [
+        ["Mom birhday", "Family"]
+    ]
+
+}
